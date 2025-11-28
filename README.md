@@ -78,6 +78,7 @@ Instead of simple On/Off logic, I implemented **PWM on TIM3**. This allowed for 
 
 ## 👤 Author
 **Gonzalo Cruz Gómez**
+
 **Alonso Madroñal de Mesa
 ---
 *Developed for the Microprocessor-Based Digital Systems Laboratory.*
