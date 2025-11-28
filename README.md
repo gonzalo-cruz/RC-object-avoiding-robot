@@ -77,8 +77,8 @@ Initially, UART polling was considered, but it caused the robot to be unresponsi
 Instead of simple On/Off logic, I implemented **PWM on TIM3**. This allowed for a "Soft Braking" feature—when an obstacle is detected between 10-20cm, the robot linearly decreases the Duty Cycle, preventing abrupt stops that could damage the chassis gearboxes.
 
 ## 👤 Author
-**Gonzalo Cruz Gómez**
+* **Gonzalo Cruz Gómez**
 
-**Alonso Madroñal de Mesa
+* **Alonso Madroñal de Mesa**
 ---
 *Developed for the Microprocessor-Based Digital Systems Laboratory.*
