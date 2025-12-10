@@ -59,7 +59,7 @@ The robot operates on a finite state machine loop inside `main.c`:
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/gonzalo-cruz/autonomous-robot-stm32.git](https://github.com/gonzalo-cruz/autonomous-robot-stm32.git)
+    git clone https://github.com/gonzalo-cruz/rc-object-avoiding-robot
     ```
 2.  **Import to IDE:**
     Open **STM32CubeIDE** and import the project folder.
