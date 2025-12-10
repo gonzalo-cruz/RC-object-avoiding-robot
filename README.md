@@ -42,7 +42,6 @@ The robot operates on a finite state machine loop inside `main.c`:
     * `Distance < 10cm`: **Hard Stop** & Audio Warning.
 3.  **Command Handling:** Bluetooth interrupts update the state variable (Forward, Backward, Left, Right, Auto).
 
-*(Place the Flowchart image from your PDF here, e.g., Figure 6)*
 
 ## 🔌 Pinout Configuration
 
